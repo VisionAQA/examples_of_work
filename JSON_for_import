@@ -1,0 +1,37 @@
+{
+  "taskName": "task#1",
+  "lineNumber": 37,
+  "ProductTypeId": "00061325000056",
+  "markingItems": [
+    "0104846595000003215hcboX\u001d93dGVz",
+    "0104846595000003215B3JG9\u001d93dGVz"
+  ],
+  "packItems": [
+    "0104846595000003215hcboX\u001d93dGVz",
+    "0104846595000003215B3JG9\u001d93dGVz"
+  ],
+  "palletItems": [
+    "0104846595000003215hcboX\u001d93dGVz",
+    "0104846595000003215B3JG9\u001d93dGVz"
+  ],
+  "packPkg": {
+    "type": "PACK",
+    "name": "Коробка 2х3",
+    "cols": 2,
+    "rows": 3,
+    "extraFields": {
+      "color": "white",
+      "material": "cardboard"
+    }
+  },
+  "palletPkg": {
+    "type": "PALLET",
+    "name": "Палета 5х4",
+    "capacity": 5,
+    "layers": 4,
+    "extraFields": {
+      "wrapType": "stretch",
+      "labelPosition": "top-right"
+    }
+  }
+}
