@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pref:Products xmlns:pref="http://kcm-line.ru/KSM/ProductRef"
+              xmlns:oref="http://kcm-line.ru/KSM/ClientRef">
+    <pref:Product>
+        <pref:Code>14871313131234</pref:Code>
+        <pref:Name>Продукция АВС1</pref:Name>
+        <pref:EAN13>2489765434578</pref:EAN13>
+        <pref:GTIN>14871313131234</pref:GTIN>
+        <pref:TemplateId>water</pref:TemplateId>
+        <pref:Producer>
+            <oref:UL>
+                <oref:FullName>АО «Щелково Агрохим»</oref:FullName>
+                <oref:ShortName>АО «Щелково Агрохим»</oref:ShortName>
+                <oref:ClientRegId>5050029646</oref:ClientRegId>
+                <oref:INN>5050029646</oref:INN>
+                <oref:KPP>505001001</oref:KPP>
+                <oref:address>
+                    <oref:Country>643</oref:Country>
+                    <oref:RegionCode>50</oref:RegionCode>
+                    <oref:description>141101, г. Щелково Московской обл., ул. Заводская, д.2, корп. 142</oref:description>
+                </oref:address>
+            </oref:UL>
+        </pref:Producer>
+    </pref:Product>
+</pref:Products>
