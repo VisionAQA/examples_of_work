@@ -3,11 +3,12 @@
 * Размер шрифта - в типографских пунктах
 * Размер этикетки по умолчанию: 15х15 мм
 */
-var fontsize = 6;
-var leftX = 1.5;
-var curY = 0.5;
+var fontsize = 15;
+var leftX = 2;
+var curY = 2;
+var moduleWidth = 1.4;
+var stepIndent = 56;
 setFont("Monospaced", fontsize);
-barcode("DATAMATRIX_GS1", params.code, leftX, curY, 0.5, 11.5);
-leftX = 2;
-curY += 12;
-wrappedText(params.productionDate, leftX, curY);
+barcode("DATAMATRIX_GS1", params.code, leftX, curY, moduleWidth, 11.5);
+curY += wrappedText("Ширина единичного модуля в мм: " + moduleWidth, leftX, curY+stepIndent);
+curY += wrappedText("Длина кода: 85 (длинный код)", leftX, curY+stepIndent);
