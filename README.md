@@ -31,7 +31,7 @@ Postman, Swagger, Jira / Redmine / Yandex Tracker / Trello, Confluence / Craft.d
 ### 🤝 Социальные сети:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/roman-shmelkov-20ba64402/" target="_blank">
+  <a href="https://www.linkedin.com/in/rs-shmelkov/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
   </a>
   <a href="https://vk.com/rs_shmelkov" target="_blank">
