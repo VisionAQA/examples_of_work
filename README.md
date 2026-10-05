@@ -10,12 +10,10 @@
 Стараюсь смотреть на продукт глазами пользователя, а на бизнес-требования — глазами аналитика. Люблю «раскопать» суть бага, найти цепочку, ведущую к его воспроизведению через чтение логов или консистентность БД, и предложить решение, а не просто завести тикет. На текущем проекте по собственной инициативе с нуля спроектировал, внедрил и развиваю масштабируемый AQA-фреймворк на Python.
 
 ### 👨‍💻 Hard Skills
-— Бэкенд и фронтенд-тестирование: Postman, Swagger, DevTools, Figma, Pixel Perfect.  
-— Базы данных: SQL (агрегатные функции, операторы сравнения и сортировки и др., JOIN), СУБД PostgreSQL, H2 (нереляционная БД), DBeaver, Redash, создание дубликатов БД в DBeaver для тестирования разных версий ПО.  
-— Автоматизация (начальный уровень): небольшой опыт редактирования автотестов на TypeScript + Playwright для прогонов через Testplane, настройка автопрогонов в Postman с использованием переменных и простых pre-request и post-response скриптов, изучение автоматизации на Python.  
-— Инфраструктура: Windows/Ubuntu, Android Studio, BrowserStack, создание виртуальных машин через Xen и поднятие ПО, взаимодействие с виртуальными машинами через терминал (sudo, ssh, tail, nano, mc, cat, grep и др.).  
-— Работа с логами: Sentry, Splunk, Терминал, iMazing.  
-— Прочее: применяю на практике техники тест-дизайна, имею опыт редактирования XML/JSON -схем, базовые навыки в работе с Git и Docker, имею опыт работы с брокером сообщений Kafka.
+— Автоматизация: Python, PyTest, Selenium WebDriver, Requests, Pydantic. Выстроил архитектуру тестового фреймворка с использованием паттерна Page Object Model. Настроил автоматическую визуальную отчетность через Allure.
+— Бэк и работа с БД: Postman, Swagger, Charles Proxy, Kafka, SQL, DBeaver, Redash. Чтение и редактирование XML/JSON-схем.
+— Инфраструктура и логи: Windows / Ubuntu, работа в терминале (SSH, grep, tail, nano, mc, cat, пр.), Git, Docker, виртуальные машины (Xen, Oracle VirtualBox). Анализ логов в Sentry и Splunk.
+— Фронт: DevTools, Figma (исп. Pixel Perfect), Android Studio, BrowserStack.
 
 ### 📌 Soft Skills
 — Бесконфликтность, высокий уровень эмоционального интеллекта, аналитический склад ума, умение быстро сориентироваться в бизнес-процессах.
@@ -24,7 +22,7 @@
 — Оттачиваю мастерство траблшутинга. Не боюсь брать ответственность.  
 
 ### 🔧 Стек
-Postman, Swagger, Jira / Redmine / Yandex Tracker / Trello, Confluence / Craft.do / Notion, Jenkins, TMS TestRail / Test IT, Kafka, Charles, DBeaver / Redash, Sentry, iMazing, Figma, DevTools, Pixel Perfect, BrowserStack, Android Studio, AnyDesk, XMind, Excel, Word, Битрикс24, Tilda, Meld, Peek, Ubuntu / Windows, Терминал, Xen, Git, Docker, PyCharm, VS Code, FileZilla.
+Python, PyTest, Selenium WebDriver, Requests, Pydantic, Allure, Git, Docker, Ubuntu / Windows, SSH, DBeaver, Postman, Swagger, Charles Proxy, Kafka, Jenkins, Sentry, Splunk, Jira / Redmine / Yandex Tracker / Trello, Confluence / Craft.do / Notion, Test IT / Zephyr, Figma, DevTools, BrowserStack, Android Studio, Xen / VirtualBox, PyCharm / VS Code, Meld, FileZilla.
 
 - 📧 Как связаться со мной: [![Yandex Badge](https://img.shields.io/badge/-Yandex.Mail-orange?style=flat&logo=ycombinator&logoColor=white)](mailto:i@romshmel.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i_Rroman) [![Max Badge](https://img.shields.io/badge/-MAX-darkblue?style=flat&logo=marvelapp&logoColor=white)](https://max.ru/u/f9LHodD0cOIwXM4DHRz-Tr-HMVgi9r1ekTadAL4oBshp-BrUvRcCL01RAYw)
 
