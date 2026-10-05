@@ -22,7 +22,7 @@
 ### 🔧 Стек
 Python, PyTest, Selenium WebDriver, Requests, Pydantic, Allure, Git, Docker, Ubuntu / Windows, SSH, DBeaver, Postman, Swagger, Charles Proxy, Kafka, Jenkins, Sentry, Splunk, Jira / Redmine / Yandex Tracker / Trello, Confluence / Craft.do / Notion, Test IT / Zephyr, Figma, DevTools, BrowserStack, Android Studio, Xen / VirtualBox, PyCharm / VS Code, Meld, FileZilla.
 
-- 📧 Как связаться со мной: [![Yandex Badge](https://img.shields.io/badge/-Yandex.Mail-orange?style=flat&logo=ycombinator&logoColor=white)](mailto:i@romshmel.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i_Rroman) [![Max Badge](https://img.shields.io/badge/-MAX-darkblue?style=flat&logo=marvelapp&logoColor=white)](https://max.ru/u/f9LHodD0cOIwXM4DHRz-Tr-HMVgi9r1ekTadAL4oBshp-BrUvRcCL01RAYw)
+Как со мной связаться: [![Yandex Badge](https://img.shields.io/badge/-Yandex.Mail-orange?style=flat&logo=ycombinator&logoColor=white)](mailto:i@romshmel.ru) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/i_Rroman) [![Max Badge](https://img.shields.io/badge/-MAX-darkblue?style=flat&logo=marvelapp&logoColor=white)](https://max.ru/u/f9LHodD0cOIwXM4DHRz-Tr-HMVgi9r1ekTadAL4oBshp-BrUvRcCL01RAYw)
 
 ---
 
